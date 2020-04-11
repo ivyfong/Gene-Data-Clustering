@@ -1,5 +1,5 @@
 ---
-title: "CHL7001 A3 - Ivy Fong"
+title: "Gene Data Clustering Analysis - Ivy Fong"
 output: word_document
 ---
 

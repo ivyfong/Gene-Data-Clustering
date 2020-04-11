@@ -1,5 +1,6 @@
-#CHL7001 Applied Machine Learning for Health Data - Assignment 3
-#Name: Ivy Fong (1000735145)
+#Applied Machine Learning for Health Data 
+#Gene Data Clustering Analysis
+#Name: Ivy Fong 
 #Date: December 20, 2018
 
 #load packages to be used
