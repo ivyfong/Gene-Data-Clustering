@@ -9,4 +9,4 @@ The objective of this project is to use R to to train an unsupervised learning m
 ## **Screenshot:**
 Plot of the 1st and 2nd principal components with colour-coded PAM clusters
 
-![figure1.png](clusters.png)
+![figure1.png](Images/clusters.png)
